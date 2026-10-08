@@ -1,0 +1,11 @@
+# Entorno virtual y temporales
+venv/
+.venv/
+__pycache__/
+
+# Reportes y datos pesados/confidenciales
+*.xlsx
+*.csv
+
+# Configuración local de VSCode
+.vscode/
